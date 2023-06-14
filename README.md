@@ -13,7 +13,7 @@
         We are ESIBot, a cool robotics and telecomunications club, located in Seville's university!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+or+at+least+I+try.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Apes+together+are+engineers.">
       <br>
       <b>
          sudo rm -rf /
