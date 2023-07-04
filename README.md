@@ -32,7 +32,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/mariorodvenESIBot">twitter</a>]
+    [<a href="https://twitter.com/ESIBot">twitter</a>]
     [<a href="https://instagram.com/esibot_etsi">instagram</a>]
     [<a href="mailto:esibot.esi@gmail.com">e-mail</a>]
   </samp>
